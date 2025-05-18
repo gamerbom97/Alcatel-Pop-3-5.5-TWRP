@@ -1,0 +1,10 @@
+ro.build.product=Pop355     #Device codename.
+ro.product.board=msm8909    #Board model.
+ro.product.brand=TCL        #Weird that it says TCL.
+ro.product.name=5054X       #So catchy.
+ro.product.device=Pop355    #Finaly something correct.
+ro.product.model=5054X      #Random catchy nickname.
+ro.product.cpu.abi=armeabi-v7a  #CPU instruction set
+ro.product.cpu.abi2=armeabi
+ro.product.cpu.abilist=armeabi-v7a,armeabi
+ro.product.cpu.abilist32=armeabi-v7a,armeabir
